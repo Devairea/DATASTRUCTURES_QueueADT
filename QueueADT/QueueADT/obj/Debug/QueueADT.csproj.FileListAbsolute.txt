@@ -1,0 +1,7 @@
+Z:\Year 2\Block 1\Data Structures\QueueADT\QueueADT\bin\Debug\QueueADT.exe.config
+Z:\Year 2\Block 1\Data Structures\QueueADT\QueueADT\bin\Debug\QueueADT.exe
+Z:\Year 2\Block 1\Data Structures\QueueADT\QueueADT\bin\Debug\QueueADT.pdb
+Z:\Year 2\Block 1\Data Structures\QueueADT\QueueADT\obj\Debug\QueueADT.csprojAssemblyReference.cache
+Z:\Year 2\Block 1\Data Structures\QueueADT\QueueADT\obj\Debug\QueueADT.csproj.CoreCompileInputs.cache
+Z:\Year 2\Block 1\Data Structures\QueueADT\QueueADT\obj\Debug\QueueADT.exe
+Z:\Year 2\Block 1\Data Structures\QueueADT\QueueADT\obj\Debug\QueueADT.pdb
